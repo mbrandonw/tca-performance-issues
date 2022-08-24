@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0830B13-93C7-4EF3-9193-D6974BFF8E3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6F6085D-6EE1-4685-99AF-4CA29CBF612D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testing-images/TCA.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "reduce(into:action:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6F6085D-6EE1-4685-99AF-4CA29CBF612D - ea118873ef42df41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for ComposableArchitecture.ReducerProtocol.reduce(into: inout &#x3c4;_0_0.State, action: &#x3c4;_0_0.Action) -&gt; ComposableArchitecture.Effect&lt;&#x3c4;_0_0.Action, Swift.Never&gt; in conformance testing_images.Child : ComposableArchitecture.ReducerProtocol in testing_images"
+                  moduleName = "testing-images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/projects/github/tca-performance-issues/testing-images/TCA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E6F6085D-6EE1-4685-99AF-4CA29CBF612D - 4ef61b7f928d4098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;ComposableArchitecture.Reduce&lt;testing_images.Seven.State, testing_images.Seven.Action&gt;, Swift.String, testing_images.Child&gt; of ComposableArchitecture._ForEachReducer.reduceForEach(into: inout &#x3c4;_0_0.State, action: &#x3c4;_0_0.Action) -&gt; ComposableArchitecture.Effect&lt;&#x3c4;_0_0.Action, Swift.Never&gt;"
+                  moduleName = "testing-images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/projects/github/tca-performance-issues/testing-images/TCA.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
